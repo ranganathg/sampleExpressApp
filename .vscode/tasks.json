@@ -10,6 +10,6 @@
             "taskName": "less",
             "isBuildCommand": true,
             "showOutput": "never"
-            }
-            ]
-            }
+        }
+    ]
+}
